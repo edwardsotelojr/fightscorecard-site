@@ -44,6 +44,9 @@ h3 { margin: 24px 0 4px; font-size: 17px; }
 
 a { color: var(--accent); }
 
+ul { padding-left: 22px; }
+li { margin: 6px 0; }
+
 .card {
   background: var(--panel);
   border: 1px solid var(--line);
